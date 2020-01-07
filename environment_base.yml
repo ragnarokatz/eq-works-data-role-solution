@@ -1,0 +1,8 @@
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - networkx
+  - python
+
